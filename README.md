@@ -1,13 +1,20 @@
 # ML Practice Projects
 
-This repository contains mini-projects and exercises I worked on while learning machine learning.
+This repository contains mini-projects and exercises completed during my journey of learning data analysis and machine learning.
 
 ## Topics
+- Data cleaning
+- Data visualization
+- Exploratory data analysis
 - Supervised learning: classification and regression.
 - Unsupervised learning: clustering and dimensionality reduction.
 -...
 
 ## Tools
-- Python, Scikit-learn, Pandas, NumPy, Matplotlib ...
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn, plotly
+- scikit-learn, tensorflow
+-....
 
 Feel free to explore and use the code!
